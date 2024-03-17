@@ -18,7 +18,8 @@ We implement two approaches in Collaborative Filtering:
 - User-Based Collaborative Filtering identifies similar users based on their ratings and recommends items liked by those similar users.
 - Model-Based Collaborative Filtering utilizes matrix factorization techniques like Singular Value Decomposition (SVD) to predict ratings for unseen user-item pairs.
 
-
+<br>
+<br>
 
 **Conclusion :**
 
